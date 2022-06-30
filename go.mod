@@ -1,4 +1,4 @@
-module github.com/row248/GoProblems
+module github.com/row248-hola/GoProblems
 
 go 1.17
 
